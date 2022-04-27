@@ -21,6 +21,6 @@ Username : ```azureuser```
 
 Password: ```WindowsPassword@001```
 
-```~Peringatan Jangan Gunakan Untuk Mining Dan Coding, Bisa Di Gunain Buat Kejar jam tayang~```
+```Peringatan Jangan Gunakan Untuk Mining Dan Coding, Bisa Di Gunain Buat Kejar jam tayang```
 
 
